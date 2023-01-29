@@ -1,0 +1,8 @@
+C:\Users\joaop\source\repos\Calculadora Alcoólica para Drinks\bin\Debug\Calculadora Alcoólica para Drinks.exe.config
+C:\Users\joaop\source\repos\Calculadora Alcoólica para Drinks\bin\Debug\Calculadora Alcoólica para Drinks.exe
+C:\Users\joaop\source\repos\Calculadora Alcoólica para Drinks\bin\Debug\Calculadora Alcoólica para Drinks.pdb
+C:\Users\joaop\source\repos\Calculadora Alcoólica para Drinks\obj\Debug\Calculadora Alcoólica para Drinks.csproj.AssemblyReference.cache
+C:\Users\joaop\source\repos\Calculadora Alcoólica para Drinks\obj\Debug\Calculadora Alcoólica para Drinks.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaop\source\repos\Calculadora Alcoólica para Drinks\obj\Debug\Calculadora Alcoólica para Drinks.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\Calculadora Alcoólica para Drinks\obj\Debug\Calculadora Alcoólica para Drinks.exe
+C:\Users\joaop\source\repos\Calculadora Alcoólica para Drinks\obj\Debug\Calculadora Alcoólica para Drinks.pdb
